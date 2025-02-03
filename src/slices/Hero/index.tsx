@@ -5,7 +5,7 @@ import {
   PrismicRichText,
   SliceComponentProps,
 } from "@prismicio/react";
-import { PrismicNextImage, PrismicNextLink } from "@prismicio/next";
+import { PrismicNextImage } from "@prismicio/next";
 // import { RiH1 } from "react-icons/ri";
 import Bounded from "@/components/Bounded";
 import Button from "@/components/Button";
